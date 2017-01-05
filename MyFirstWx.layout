@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="CallPopupDlgImpl.cpp" open="0" top="0" tabpos="12">
+		<Cursor position="1284" topLine="0" />
+	</File>
+	<File name="CallPopupDlgImpl.h" open="0" top="0" tabpos="13">
+		<Cursor position="310" topLine="0" />
+	</File>
+	<File name="CallTransferDlgImpl.cpp" open="0" top="0" tabpos="19">
+		<Cursor position="218" topLine="0" />
+	</File>
+	<File name="CallTransferDlgImpl.h" open="0" top="0" tabpos="20">
+		<Cursor position="368" topLine="0" />
+	</File>
+	<File name="CreateSessionDlgImpl.cpp" open="0" top="0" tabpos="9">
+		<Cursor position="557" topLine="15" />
+	</File>
+	<File name="CreateSessionDlgImpl.h" open="0" top="0" tabpos="10">
+		<Cursor position="643" topLine="0" />
+	</File>
+	<File name="GUIFrame.cpp" open="0" top="0" tabpos="16">
+		<Cursor position="469" topLine="7" />
+	</File>
+	<File name="GUIFrame.h" open="0" top="0" tabpos="17">
+		<Cursor position="1730" topLine="90" />
+	</File>
+	<File name="MakeCallDlgImpl.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="358" topLine="0" />
+	</File>
+	<File name="MakeCallDlgImpl.h" open="0" top="0" tabpos="6">
+		<Cursor position="411" topLine="0" />
+	</File>
+	<File name="MyFirstWxApp.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="657" topLine="0" />
+	</File>
+	<File name="MyFirstWxApp.h" open="0" top="0" tabpos="14">
+		<Cursor position="530" topLine="0" />
+	</File>
+	<File name="MyFirstWxMain.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="10921" topLine="286" />
+	</File>
+	<File name="MyFirstWxMain.h" open="0" top="0" tabpos="3">
+		<Cursor position="864" topLine="55" />
+	</File>
+	<File name="SetupDlgImpl.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="236" topLine="0" />
+	</File>
+	<File name="SetupDlgImpl.h" open="0" top="0" tabpos="7">
+		<Cursor position="356" topLine="0" />
+	</File>
+	<File name="XAMI.cpp" open="0" top="0" tabpos="15">
+		<Cursor position="3214" topLine="14" />
+	</File>
+	<File name="XAMI.h" open="0" top="0" tabpos="2">
+		<Cursor position="2361" topLine="59" />
+	</File>
+	<File name="resource.rc" open="0" top="0" tabpos="18">
+		<Cursor position="492" topLine="0" />
+	</File>
+	<File name="xami_action.h" open="0" top="0" tabpos="0">
+		<Cursor position="899" topLine="20" />
+	</File>
+	<File name="xami_event.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="174" topLine="0" />
+	</File>
+	<File name="xami_event.h" open="0" top="0" tabpos="11">
+		<Cursor position="90" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
