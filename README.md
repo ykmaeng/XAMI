@@ -3,6 +3,7 @@ AMI(Asterisk Manager Interface) Tester
 
 Installation File:
 - https://github.com/ykmaeng/XAMI/raw/master/xami_0.1_beta2_20090411.zip
+- Checksum MD5: B81BEF865DD7392E1582F2D67F349566
 
 Video tutorials:
 - http://www.screencast.com/users/Xeny/folders/Asterisk/media/723ee9a2-067d-4d84-a313-da4cd2b65cdd
